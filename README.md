@@ -4,5 +4,5 @@
 
 ### This repository is the solution of Javascript challenge from Elzero Web School which is have pure JS code.
 
-### The design is downbelow : 
+### The wanted design is downbelow : 
 ![Design preview for the First task](./create-elements.gif)
