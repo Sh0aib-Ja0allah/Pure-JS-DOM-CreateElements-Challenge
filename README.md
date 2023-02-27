@@ -1,4 +1,4 @@
-# Pure-JS-InputCards-Page
+# Pure-JS-DOM-CreateElements-Challenge
 
 ## To Run this part and see the results follow link : <br /><code></code>
 
